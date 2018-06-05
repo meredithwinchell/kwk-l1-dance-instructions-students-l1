@@ -35,4 +35,3 @@ def lasso
   puts "lift right arm up and point right elbow straight left"
   puts "raise right forearm so that it points straight up, and whip it in circles to the beat of the song, as if you were a cowboy holding a rope lasso."
 end
-
