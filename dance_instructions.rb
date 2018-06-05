@@ -54,3 +54,5 @@ def gangnam_style
   lasso
   bust_a_move
 end
+
+gangnam_style
